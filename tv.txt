@@ -265,6 +265,35 @@ CETV1高清,http://47.240.60.73/migu.php?id=649531734
 四海钓鱼,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000129
 陶瓷FHD,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000136
 生活时尚,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000141
+生活时尚,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?id=bestzb&Contentid=8538616372715313491&livemode=1&authCode=3a&stbId=2D4003FF004735100000288CB809FD74&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+欢乐剧场,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6550198305014687851&livemode=1&authCode=3a&stbId=664003FF004735100000288CB809FE94&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+ICS,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6032059665143203976&livemode=1&authCode=3a&stbId=B84003FF004735100000288CB809EC72&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+新闻综合,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7487426726248458200&livemode=1&authCode=3a&stbId=334003FF004735100000288CB80A1572&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+都市频道,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6789517052815334336&livemode=1&authCode=3a&stbId=AF4003FF004735100000288CB8C377C6&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+艺术人文,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4624908642496875994&livemode=1&authCode=3a&stbId=BD4003FF004735100000288CB8C38192&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+第一财经,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6617141658685778844&livemode=1&authCode=3a&stbId=CC4003FF004735100000288CB8C384AA&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+法制天地,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&authCode=3a&stbId=F94003FF004735100000288CB8C34210&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+东方财经,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7061949425579508455&livemode=1&authCode=3a&stbId=594003FF004735100000288CB8C33F68&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+都市剧场,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6458566386506430130&livemode=1&authCode=3a&stbId=FF4003FF004735100000288CB8C35BFA&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+动漫秀场,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=9072176337701960899&livemode=1&authCode=3a&stbId=8B4003FF004735100000288CB8C375EE&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+七彩戏剧,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=5379866194427087552&livemode=1&authCode=3a&stbId=BB4003FF004735100000288CB8C374BE&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+纪实频道HD,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7081356299464623208&livemode=1&authCode=3a&stbId=5A4003FF004735100000288CB8C35B5C&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+极速汽车,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6674152167754937164&livemode=1&authCode=3a&stbId=CA4003FF004735100000288CB8C3720E&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+CCTV高尔夫网球,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000051
+CETV早期教育,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000071
+DOXTV,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000078
+书,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000081
+中华美食,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000085
+环球旅游,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000089
+中学生,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000093
+休闲,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000097
+家政,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000108
+DOX,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000126
+熊猫台,https://gcalic.v.myalicdn.com/gc/ipanda_1/index.m3u8?contentid=2820180516001&AUTH=EWbqPX5amMUxL2KapN4PojjCv6Y3kLImyv4JB9phjgIhwCszcDyLyNooS5TQjhxk9JhHTXU+qF3B2DqF9U/PJA==
+数码时代,http://yf.m.l.cztv.com/channels/lantian/channel12/1080p.m3u8?
+留学世界,http://yf.m.l.cztv.com/channels/lantian/channel09/1080p.m3u8?
+cctv娱乐,http://61.58.60.230:9319/live/224.m3u8
 东方纪实,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000143
 求索纪录,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000144
 北京纪实,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000145
@@ -276,8 +305,8 @@ CETV1高清,http://47.240.60.73/migu.php?id=649531734
 江西-7新闻,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000217
 CIBN电影,http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/800/vCIBNDYPD.m3u8
 CIBN嗨播,http://cinb1.peoplevideo.cn/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8
-CIBN纪录片,http://cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8
-
+CIBN纪录,http://cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8
+CIBN记录,http://v.iam7.cn/iptv/cibn.php?code=501
 
 
 
