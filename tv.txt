@@ -384,7 +384,57 @@ CGTN,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004
 山东卫视,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000294801.m3u8
 浙江国际,http://yf.m.l.cztv.com/channels/lantian/channel10/1080p.m3u8?
 
-
-
+音乐电视台,#genre#
+CCTV风云音乐,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000090.m3u8
+魅力音乐,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000106.m3u8
+V音乐,rtmp://58.200.131.2:1935/livetv/channelv
+音乐石榴,http://aldirect.rtmp.huya.com/huyalive/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1_1200.m3u8?wsSecret=c314e5920618fcd00717e43931ff3203&wsTime=5de268b9
+仪陇音乐,https://dlhls-cdn-mp.zhanqi.tv/zqlive/285305_4Cz3X.m3u8
+m2音乐,http://live.m2.tv/hls3/stream.m3u8
+俄罗斯音乐,http://hls-video01.cdnvideo.ru:80/video01/smil:video01.smil/chunklist_b4128000.m3u8
+演唱会,https://livetvhooq.akamaized.net/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876312~exp=9007200829617303~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_2/chunklist.m3u8*~hmac=2278e98d98241572d997241cfff28a697c84cd06a0427d711230cb9a4c249aed
+意大利M2O,https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+Country,https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+Deejay,http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+Top Latino,http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+Music Now,http://livecdnh1.tvanywhere.ae:80/hls/music_now/index.m3u8
+意大利音樂台,http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+ETV,http://220.158.149.14:9999/live/TV00000000000000000121@HHZT;LIVE
+MTV,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+cibn华语榜,http://v.iam7.cn/iptv/cibn.php?code=155
+b4u音乐,http://livecdnh3.tvanywhere.ae/hls/b4uaflam/index.m3u8
+未知音乐台,http://94.130.180.175:8081/live/greektv/playlist.m3u8
+CIBN嗨播,http://v.iam7.cn/iptv/cibn.php?code=128
+嗨播CIBN,http://v.iam7.cn/iptv/cibn.php?code=135
+CIBN嗨播1,http://v.iam7.cn/iptv/cibn.php?code=136
+CIBN嗨播2,http://v.iam7.cn/iptv/cibn.php?code=145
+嗨播音乐榜CIBN,http://v.iam7.cn/iptv/cibn.php?code=155
+CIBN嗨播3,http://v.iam7.cn/iptv/cibn.php?code=162
+CIBN嗨播4,http://v.iam7.cn/iptv/cibn.php?code=208
+CIBN嗨播5,http://v.iam7.cn/iptv/cibn.php?code=338
+音乐俱乐部,https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
+ropical,https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+Trace Naija,https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+Trace Mziki,http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+Trace Kitoko,https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+Trace Africa,https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+日本J音乐,vjms://58.215.133.185:8500:3502/live/cid=495&delay=400&httpbuf=400&memory=50|http://test8055.s-itv.com?key=YbX1jR0wiWv7MeCDOoh6
+MoozHitsSD,http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
+MOOZ RO,http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+music_now,http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8
+musictop,http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8#http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8
+NG音乐,http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+收音机,http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+rot,http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
+Tile Mousiki,http://wpso.com:1936/hls/music1.m3u8
+XITE,https://xite2065.cloudycdn.services/tlive/_definst_/xite_xite_1_tbc_42077_default_45_hls.smil/chunklist_b2472608_t64NzIwcA==.m3u8
+stranafm,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+Радио Шансон,http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+1HD_Music_TV,http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+ШансонТВ,http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+泰国sea,http://203.189.147.211:1935/live/mp4:myStream_720p/chunklist_w1829963082.m3u8
+测试频道,http://linear01hun-lh.akamaihd.net:80/i/faaduhits_1@660838/index_2128_av-p.m3u8?sd=10&rebase=on
+A2i TV,http://162.212.178.131:1935/live/Ai2tv/chunklist.m3u8
+Karaoke Channel,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 
 
