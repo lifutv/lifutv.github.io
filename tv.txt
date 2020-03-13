@@ -322,17 +322,17 @@ CIBN军事,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=YinYue
 
 
 央视卫视,#genre#
-cctv1,http://gslbserv.itv.cmvideo.cn:80/000000001000/reallive-hdcctv1/1.m3u8?channel-id=ystenlive&Contentid=reallive-hdcctv1&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=reallive-hdcctv1&owchid=ystenlive&owsid=7951969344461655967
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/000000001000/reallive-hdcctv1/1.m3u8?channel-id=ystenlive&Contentid=reallive-hdcctv1&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=reallive-hdcctv1&owchid=ystenlive&owsid=7951969344461655967
 CCTV1,rtmp://58.200.131.2:1935/livetv/cctv1hd
 CCTV2,rtmp://58.200.131.2:1935/livetv/cctv2hd
 CCTV2,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 CCTV3,http://gslbserv.itv.cmvideo.cn:80/000000001000/8378175926191110263/1.m3u8?channel-id=ystenlive&Contentid=8378175926191110263&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8378175926191110263&owchid=ystenlive&owsid=7951969344460961673
 CCTV3,rtmp://58.200.131.2:1935/livetv/cctv3hd
-cctv4,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
-cctv4,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000122
-CCTV,rtmp://58.200.131.2:1935/livetv/cctv4hd
-cctv5+,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000204501.m3u8
-cctv5+,http://gslbserv.itv.cmvideo.cn:80/000000001000/reallive-cctv5plus/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=reallive-cctv5plus&owchid=ystenlive&owsid=7951969344461198178
+CCTV4,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+CCTV4,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000122
+CCTV4,rtmp://58.200.131.2:1935/livetv/cctv4hd
+CCTV5+,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000204501.m3u8
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/000000001000/reallive-cctv5plus/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=reallive-cctv5plus&owchid=ystenlive&owsid=7951969344461198178
 CCTV5,http://gslbserv.itv.cmvideo.cn:80/000000001000/reallive-cctv5/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=reallive-cctv5&owchid=ystenlive&owsid=7951969344460933131
 CCTV6,http://gslbserv.itv.cmvideo.cn:80/000000001000/6117099895556651277/1.m3u8?channel-id=ystenlive&Contentid=6117099895556651277&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6117099895556651277&owchid=ystenlive&owsid=7951969344460914262
 CCTV6,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000133
@@ -344,9 +344,9 @@ CCTV10,http://gslbserv.itv.cmvideo.cn:80/000000001000/7019587760656900133/1.m3u8
 cctv11,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000204101.m3u8
 CCTV11,http://gslbserv.itv.cmvideo.cn:80/000000001000/6351457414282570521/1.m3u8?channel-id=ystenlive&Contentid=6351457414282570521&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=6351457414282570521&owchid=ystenlive&owsid=7951969344461118626
 CCTV12,http://gslbserv.itv.cmvideo.cn:80/000000001000/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=5325631075193490169&owchid=ystenlive&owsid=7951969344461128324
-cctv13,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000204601.m3u8
-cctv13,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000204602.m3u8
-cctv13,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+CCTV13,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000204601.m3u8
+CCTV13,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000204602.m3u8
+CCTV13,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV14,http://gslbserv.itv.cmvideo.cn:80/000000001000/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=003901FF0001181003FC08A5C8C6C037&userToken=85a5a98cdcab4d800a8ec29a9d917e8d10vv&usergroup=g10045200000&version=1.0&owaccmark=8203666801302077036&owchid=ystenlive&owsid=7951969344461164890
 CCTV15,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 cctv17,http://120.233.115.12/tlivecloud-cdn.ysp.cctv.cn/001/2000204201.m3u8
