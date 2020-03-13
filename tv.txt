@@ -200,6 +200,11 @@ NEWTV完美遊戲,http://gslbserv.itv.cmvideo.cn:80/000000001000/532094685768696
 超级综艺,http://111.13.111.244:80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
 超级电影,http://111.13.111.244:80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
 超级体育,http://111.13.111.244:80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
+超级电视剧,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+超级电视剧,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8
+超级电影,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+超级体育,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+超级综艺,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CIBN全电竞,http://v.iam7.cn/iptv/cibn.php?code=115
 CIBN精品影院,http://118.123.60.9:8114/LIVES/Fsv_otype=2&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=1&Provider_id=&Pcontent_id=index.m3u8
 CIBN情感影院,http://118.123.60.9:8114/LIVES/Fsv_otype=2&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=29&Provider_id=&Pcontent_id=index.m3u8
@@ -307,7 +312,9 @@ CIBN电影,http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/800/vCIBNDYPD.m3u8
 CIBN嗨播,http://cinb1.peoplevideo.cn/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8
 CIBN纪录,http://cinb1.peoplevideo.cn/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8
 CIBN记录,http://v.iam7.cn/iptv/cibn.php?code=501
-
+CIBN怡家,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=JiaoYu
+CIBN生活,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=YouXi
+CIBN军事,http://nas.330421.cn:8000/iptv/cibn/?id=1108&code=YinYue
 
 
 央视卫视,#genre#
