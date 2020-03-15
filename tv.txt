@@ -128,6 +128,7 @@ DWE3620470C71&&playtoken=&programid=4200000111.m3u8
 CHC华城影视,http://101.89.132.136/tm-cridyty-512k.m3u8
 CRI,http://by4.nty.tv189.cn/tm-cridyty-512k.m3u8
 纪实,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
+CHC高清电影,http://www.51kds.vip/proxys_http/hn_otv_proxy_test.html?id=000f26643186592382044807f38e99c1
 CHC高清电影,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000115
 CHC高清电影,rtmp://ivi.bupt.edu.cn/livetv/chchd
 CHC动作电影,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000120
@@ -142,6 +143,7 @@ CCTV美洲台,https://cctvcnch5ca.v.wscdns.com/live/cctvamerica_2/.m3u8
 求索动物,http://125.210.152.18:9090/live/QSDW_1200.m3u8
 求索生活,http://125.210.152.18:9090/live/QSSH_1200.m3u8
 求索纪录,http://125.210.152.18:9090/live/QSJLHD_H265.m3u8
+CHC高清电影,http://192.200.120.82:8080/ZZ_chcgaoqing/ZZ_chcgaoqing.m3u8
 CHC高清电影,rtmp://58.200.131.2:1935/livetv/chchd
 CHC高清电影,P2p://185.212.201.60:6005/5b4492d30003ae510022d5fd4efcb1bd.ts
 CHC动作电影,rtmp://58.200.131.2:1935/livetv/chcatv
@@ -310,6 +312,7 @@ cctv娱乐,http://61.58.60.230:9319/live/224.m3u8
 游戏风云,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000148
 精彩影视,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000149
 足球频道,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000130
+足球频道,http://ivi.bupt.edu.cn/hls/zqhd.m3u8
 快乐垂钓,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000080
 江西-7新闻,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000217
 CIBN电影,http://cinb1.peoplevideo.cn/hls/vCIBNDYPD/800/vCIBNDYPD.m3u8
@@ -537,6 +540,7 @@ Karaoke Channel,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaoke
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 凤凰香港,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
+凤凰香港,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226120/1.m3u8
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
@@ -575,13 +579,15 @@ TVB翡翠,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/ind
 明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 明珠台,https://116.77.72.195/streams/d/mzt/playlist.m3u8
 明珠台,vjms://121.14.222.75:8500:3502/live/cid=367
+明珠台,https://116.77.72.195/streams/d/mzt/playlist.m3u8
 星空衛視,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 V音乐,rtmp://58.200.131.2:1935/livetv/channelv
 香港新城新知,http://stream2.onfm.me:1935/live/onfmstation_480p/chunklist_w1423356663.m3u8
 香港卫视体育台,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 香港电影台,http://u6.gg/feDb7
-TVBJ2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+电影,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8TVBJ2,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+TVBj2,http://tmtv.aaa1818.site/888/xgtv.php?id=12
 TVBJ2,msc://CJ2L
 天映经典,mitv://fccsovh.pvbox.live:18912/5b3c4f9b00031383627eef60721e1738.ts
 TVB亚洲剧台,https://dlhls-cdn-mp.zhanqi.tv/zqlive/291236_97IGR.m3u8
@@ -686,6 +692,8 @@ TVN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
 台視財經,https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 中视,http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
 民視HD,vjms://121.14.222.77:8500/live/cid=450
+台湾综艺,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/549255/live_106094668_7461976.m3u8
+nimo动画,http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 迪士尼卡通,vjms://121.14.222.77:8500/live/cid=361
 BabyFirst亲子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 CHTV神州,http://220.158.149.14:9999/live/TV00000000000000000002@HHZT;LIVE
@@ -891,6 +899,8 @@ CGN中文,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/chunklist_w
 斗鱼7师傅,http://tx2play1.douyucdn.cn/live/17732rtara.flv?uuid=
 广东IPTV推荐,http://dslive.grtn.cn/mzzh/sd/live.m3u8?_upt=bb99b9b81567005000&token=06877f8e5e81ad2d60e3c67aab4ea8e4
 相声小品,http://aldirect.rtmp.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
+邵氏电影,http://tx2play1.douyucdn.cn/live/4246519rbNFUb1Pf_550p.xs?uuid=
+邵氏鬼片,http://pull.kktv8.com/livekktv/143960119.flv
 虎牙电视剧,https://aldirect.rtmp.huya.com/huyalive/28466698-2689658612-11551995775944753152-2847699196-10057-A-0-1_1200.m3u8
 战旗TVB电视剧,http://183.6.204.25/dlhdl-cdn.zhanqi.tv/zqlive/291236_97IGR.flv
 海爷动作1,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/877642/live_199793349_7660540.m3u8
