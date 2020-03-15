@@ -534,6 +534,8 @@ Karaoke Channel,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaoke
 无线新闻,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 无线新闻,http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 无线新闻,http://sousou2.top/dl/tvb.php?id=inews
+无线新闻,http://s5870658.m.awhost.cn/wxtv.php?id=inews?is_hd
+无线新闻,https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=7449867010c26a0b26566c330d124e1e&cid=196&uid=36808
 无线新闻,msc://CIN5
 有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 不稳有线娱乐,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
@@ -545,6 +547,7 @@ Karaoke Channel,http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaoke
 凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.m3u8
+凤凰资讯,https://www.fanmingming.cn/hls/fhzx.m3u8
 凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
 凤凰资讯,http://125.210.152.18:9090/live/FHZX_1200.m3u8
 凤凰资讯,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
@@ -569,6 +572,8 @@ TVB星河粤语,msc://CXHMovie
 TVB星河粤语,http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 TVB韩剧台,msc://CKDrama5
 TVB娱乐新闻,msc://CEN5
+香港有线综合娱乐.https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8
+星河剧献,http://cn-jlcc-cu-live-03.live-play.acgvideo.com/live-bvc/live_281282463_1547722.m3u8
 战旗TVB,http://183.6.204.25/dlhdl-cdn.zhanqi.tv/zqlive/291236_97IGR.flv
 阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
 阳光卫视,http://220.158.149.14:9999/live/TV00000000000000000062@HHZT;LIVE
@@ -615,6 +620,7 @@ MiaoMi-TV,http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 三立新闻,vjms://121.14.222.77:8500/live/cid=352
 中天新闻,vjms://121.14.222.77:8500/live/cid=407
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天综合,http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天综合,http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天娱乐,http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
@@ -669,6 +675,7 @@ ELTA體育HD,vjms://121.14.222.77:8500/live/cid=266
 好莱坞电影,http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 龙祥,http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
 龙祥,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
+龙祥,http://play.ggiptv.com:13164/play.m3u8?token=d7gUZ9sPekFQce73F5tj63JX&tid=gt&id=67
 MTV,vjms://58.215.133.185:8500:3502/live/cid=52
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
 动物星球,vjms://58.215.133.185:8500:3502/live/cid=3
@@ -677,6 +684,12 @@ MTV,vjms://58.215.133.185:8500:3502/live/cid=52
 探索科学,vjms://58.215.133.185:8500:3502/live/cid=457
 探索频道,https://download.kskxs.com/live/tspd/index.m3u8
 探索,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+探索,rtmp://58.200.131.2:1935/livetv/discovery
+探索,https://itv.ahcme.edu.cn/hls/discovery.m3u8
+探索,https://www.fanmingming.cn/hls/discovery.m3u8
+国家地理,https://www.fanmingming.cn/hls/natlgeo.m3u8
+国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 国家地理,vjms://58.215.133.185:8500:3502/live/cid=115
 国家地理,https://download.kskxs.com/live/ngeo/index.m3u8
 TVBS,vjms://121.14.222.77:8500/live/cid=349
@@ -915,6 +928,8 @@ CGN中文,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/chunklist_w
 海爷动作1,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/877642/live_199793349_7660540.m3u8
 粤语电影,https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/857444/live_397449951_4601692.m3u8
 虎牙轮播,http://aldirect.rtmp.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
+综艺大杂烩,http://47.240.60.73/aqy.php?id=3807160
+电影哦,http://pull.kktv8.com/livekktv/143960119.flv
 美国时装,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 牛视频,https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?
 hdnts=st=1574876158~exp=9007200829617149~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_2/chunklist.m3u8*~hmac=b341803fee697419e17273f2c5dd96cb17e424b362902954980651a37c635d44
