@@ -931,9 +931,8 @@ CGN中文,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/chunklist_w
 综艺大杂烩,http://47.240.60.73/aqy.php?id=3807160
 电影哦,http://pull.kktv8.com/livekktv/143960119.flv
 美国时装,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-牛视频,https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?
-hdnts=st=1574876158~exp=9007200829617149~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_2/chunklist.m3u8*~hmac=b341803fee697419e17273f2c5dd96cb17e424b362902954980651a37c635d44
-激进,https://livetvhooq.akamaized.net/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876390~exp=9007200829617381~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_2/chunklist.m3u8*~hmac=ff4274174c324a28381fe2503a612fc09f295cbf07234d2d92fa328f5c70861
+牛视频,https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876158~exp=9007200829617149~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_2/chunklist.m3u8*~hmac=b341803fee697419e17273f2c5dd96cb17e424b362902954980651a37c635d44
+激进,https://livetvhooq.akamaized.net/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876390~exp=9007200829617381~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_2/chunklist.m3u8*~hmac=ff4274174c324a28381fe2503a612fc09f295cbf07234d2d92fa328f5c70861c
 时装Box,http://84.22.33.254/unicast.fashionbox/index.m3u8
 Fashion Channel,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 法国时装,https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
