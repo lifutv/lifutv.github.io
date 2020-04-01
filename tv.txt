@@ -649,7 +649,9 @@ MTV LIVE音乐现场,mitv://147.135.39.171:9906/5d9a2a6100044aa29cb0ceb915667a36
 无线新闻,https://tv.elibei.com/tv/play?token=c53c2425123852327994cc6b8b57e2e2&k=7449867010c26a0b26566c330d124e1e&cid=196&uid=36808
 无线新闻,msc://CIN5
 有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
-有线财经资讯台,mitv://147.135.39.171:9906/5d9a2c87000b43e99cb934ee7df41659.ts
+有线新闻,mitv://147.135.39.171:9906/5dcd25fc000623c838c9e73f44bb7227.ts
+有线财经,mitv://147.135.39.171:9906/5d9a2c87000b43e99cb934ee7df41659.ts
+有线财经,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
 不稳有线娱乐,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -705,6 +707,7 @@ TVB翡翠,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/ind
 星空衛視,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 星空衛視,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 V音乐,rtmp://58.200.131.2:1935/livetv/channelv
+V音乐,https://www.fanmingming.cn/hls/channelv.m3u8
 有线603,rtmp://112.30.135.40:1935/live-zb.nanhailong.com/live/ch215#http://www.liveviptv.xyz/tv_app/vipzb1/gangaotai/token.php?token=nqinAjjpulu0xWUwXjtSQVeo-4ShToCstizRtmezEix8FoQvEXh1%3DoyuCryX9
 香港新城新知,http://stream2.onfm.me:1935/live/onfmstation_480p/chunklist_w1423356663.m3u8
 香港卫视体育台,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
@@ -729,6 +732,7 @@ TVB翡翠台,mitv://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
 TVB明珠台,mitv://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9
 TVB明珠台,mitv://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
 TVB无线财经台,mitv://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8
+TVB无线财经台,p8p://0198.02686.cc:16871/5d6000ef00075fa1eddd111e1452c6bc.ts
 TVB无线财经台,mitv://sdgdklwos.finetv.tv:9906/5ad32aed000d8fa649eaacf716d70340
 TVB无线新闻台,mitv://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
 TVB无线新闻台,mitv://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
@@ -768,15 +772,15 @@ j2,http://49.233.148.32/dl/lttv/bstv.php?id=tvbj2
 卫视电影,http://49.233.148.32/dl/lttv/bstv.php?id=wsdyt
 玮来电影,http://49.233.148.32/dl/lttv/bstv.php?id=wlmovie
 东森电影,http://49.233.148.32/dl/lttv/bstv.php?id=dsmovie
-华视,http://49.233.148.32/dl/lttv/bstv.php?id=hsxinwen
+华视新闻资讯,http://49.233.148.32/dl/lttv/bstv.php?id=hsxinwen
 tvb,http://49.233.148.32/dl/lttv/bstv.php?id=tvbfc
 中视,http://49.233.148.32/dl/lttv/bstv.php?id=zsxinwen
 viu,http://49.233.148.32/dl/lttv/bstv.php?id=viutv
 美亚电影,http://pull.scphsd.com/live/b1c3997d267b55851c015fef337cf848.flv
 环宇台湾台,http://111.13.111.192/125.227.198.89:8011
 环宇台湾台,http://ms003.happytv.com.tw:80/live/fkFeyYT8fwboq8Db/index.m3u8
-now新闻,http://pull.scphsd.com/live/f13dc9147768789c2fdf7e62c6af19a2.flv
-无线新闻,https://ootori.xyz/tv/tvb.php?id=inews
+
+
 
 无线财经,https://ootori.xyz/tv/tvb.php?id=j5_ch85
 翡翠,http://cqx008.top/xg168.php?id=1
@@ -784,10 +788,10 @@ now新闻,http://pull.scphsd.com/live/f13dc9147768789c2fdf7e62c6af19a2.flv
 凤凰资讯,http://cqx008.top/xg168.php?id=3
 翡翠,http://cqx008.top/xg168.php?id=4
 香港卫视,http://cqx008.top/xg168.php?id=6
-开电视,http://cqx008.top/xg168.php?id=7
+
 viu,http://cqx008.top/xg168.php?id=8
 无线新闻,http://cqx008.top/xg168.php?id=9
-开电视,http://cqx008.top/xg168.php?id=11
+
 j2,http://cqx008.top/xg168.php?id=12
 
 
@@ -817,7 +821,7 @@ MiaoMi-TV,http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 马来全佳,mitv://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts
 马来双星,mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts
 马来小太阳,mitv://147.135.39.171:9906/5c311b380000b12f06c9ab7174b605e2.ts
-TV8,mitv://198.255.74.57:12396/5e502088000eaa4d3d331d9dce6fd1aa.ts
+
 
 卫视电影,p8p://0198.02686.cc:16871/5d1a69d0000743f711be4b7d2b320c30.ts
 靖天电影,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
@@ -833,13 +837,14 @@ TV8,mitv://198.255.74.57:12396/5e502088000eaa4d3d331d9dce6fd1aa.ts
 好消息,http://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
 年代新闻,vjms://121.14.222.77:8500/live/cid=455
 年代新闻,http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-年代新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 年代MUCH,vjms://121.14.222.77:8500/live/cid=439
 年代MUCH,vjms://58.215.133.185:8500:3502/live/cid=439
 壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 壹新闻,p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
 壹电视综合,mitv://147.135.39.171:9906/5defdaa300000b5f6ea06f8e03f25db2.ts
 环宇新闻,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
+环宇新闻,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
 环宇2台,http://ms003.happytv.com.tw/live/fkFeyYT8fwboq8Db/index.m3u8
 环宇综合台,mitv://147.135.39.171:9906/5cc68d17000835e5fadeb5ac777e2a70.ts
 环宇财经,p8p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
@@ -933,14 +938,16 @@ MTV,vjms://58.215.133.185:8500:3502/live/cid=52
 探索频道,https://download.kskxs.com/live/tspd/index.m3u8
 探索,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 探索,rtmp://58.200.131.2:1935/livetv/discovery
+探索,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 探索,https://itv.ahcme.edu.cn/hls/discovery.m3u8
 探索,https://www.fanmingming.cn/hls/discovery.m3u8
 国家地理,https://www.fanmingming.cn/hls/natlgeo.m3u8
-
+国家地理,http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 国家地理,rtmp://58.200.131.2:1935/livetv/natlgeo
 国家地理,vjms://58.215.133.185:8500:3502/live/cid=115
 国家地理,https://download.kskxs.com/live/ngeo/index.m3u8
+
 TVBS,vjms://121.14.222.77:8500/live/cid=349
 TVBS,vjms://58.215.133.185:8500:3502/live/cid=349
 TVBS新闻,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
