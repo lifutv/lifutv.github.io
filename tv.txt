@@ -1157,6 +1157,15 @@ HBO,P2p://51.79.41.138:18912/5bf4f3ca000b623c33bfd5c009a1141e.ts
 
 
 精彩网台,#genre#
+车模,http://tx2play1.douyucdn.cn/live/7272018rtkB1WQIQ.flv?uuid=
+热舞,http://tx2play1.douyucdn.cn/live/8032248rrSsOym1D.flv?uuid=
+音乐快斗,http://tx2play1.douyucdn.cn/live/8324627r6hBqED39.flv?uuid=
+演唱会MV,http://tx2play1.douyucdn.cn/live/6772926r7r426GQo.flv?uuid=
+
+
+
+
+
 游戏直播,http://hls-ott-zhibo.wasu.tv/live/348/index.m3u8
 游戏直播1,http://hls-ott-zhibo.wasu.tv/live/384/index.m3u8
 游戏直播2,http://hls-ott-zhibo.wasu.tv/live/385/index.m3u8
