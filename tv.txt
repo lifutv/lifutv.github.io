@@ -1157,10 +1157,6 @@ HBO,P2p://51.79.41.138:18912/5bf4f3ca000b623c33bfd5c009a1141e.ts
 
 
 精彩网台,#genre#
-车模,http://tx2play1.douyucdn.cn/live/7272018rtkB1WQIQ.flv?uuid=
-热舞,http://tx2play1.douyucdn.cn/live/8032248rrSsOym1D.flv?uuid=
-音乐快斗,http://tx2play1.douyucdn.cn/live/8324627r6hBqED39.flv?uuid=
-演唱会MV,http://tx2play1.douyucdn.cn/live/6772926r7r426GQo.flv?uuid=
 
 
 
@@ -1517,7 +1513,66 @@ kk经典,http://hpull.kktv8.com/livekktv/104621340/playlist.m3u8
 kk影视,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 
 
-
+动漫电影,http://hls-ott-zhibo.wasu.tv/live/364/index.m3u8
+无台标电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+无台标电影2,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+无台标动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+华数记录,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+华数电视剧1,http://hls-ott-zhibo.wasu.tv/live/403/index.m3u8
+华数电视剧2,http://hls-ott-zhibo.wasu.tv/live/418/index.m3u8
+华数电视剧3,http://hls-ott-zhibo.wasu.tv/live/419/index.m3u8
+华数电视剧4,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+华数服务HD,http://125.210.152.18:9090/live/HSFWHD.m3u8
+李子,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+华数美妆,http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
+红色谍战剧场,http://stream.guihet.com/migu/index.php?id=634274665
+爱奇艺动作电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
+华视火爆劲片,http://stream.guihet.com/migu/index.php?id=624999147
+怀旧老片,http://stream.guihet.com/migu/index.php?id=621640582
+黄金剧场,http://stream.guihet.com/migu/index.php?id=625155140
+激情夜场影院,http://stream.guihet.com/migu/index.php?id=625188208
+金庸频道,http://stream.guihet.com/migu/index.php?id=625774640
+成龙作品,http://stream.guihet.com/migu/index.php?id=639528181
+传奇剧场,http://stream.guihet.com/migu/index.php?id=625526423
+盗墓方法论,http://stream.guihet.com/migu/index.php?id=625525181
+高分影院,http://stream.guihet.com/migu/index.php?id=627198191
+国际剧场,http://stream.guihet.com/migu/index.php?id=625542365
+经典频道,http://stream.guihet.com/migu/index.php?id=625542369
+惊悚频道,http://stream.guihet.com/migu/index.php?id=629943678
+精品剧场,http://stream.guihet.com/migu/index.php?id=615810094
+精品网剧,http://stream.guihet.com/migu/index.php?id=627198751
+抗战老片,http://stream.guihet.com/migu/index.php?id=625542372
+刘德华作品,http://stream.guihet.com/migu/index.php?id=659315648
+刘涛作品集,http://stream.guihet.com/migu/index.php?id=625514969
+每日科幻电影,http://stream.guihet.com/migu/index.php?id=625204865
+魅力音乐,http://stream.guihet.com/tv/116.php?id=076
+咪咕24小时体育台,http://stream.guihet.com/migu/index.php?id=654102378
+咪咕暑期剧场,http://stream.guihet.com/migu/index.php?id=627198610
+咪咕早教频道,http://stream.guihet.com/migu/index.php?id=617432495
+破案现场,http://stream.guihet.com/migu/index.php?id=627033503
+情感剧场,http://stream.guihet.com/migu/index.php?id=625574378
+热播剧场,http://stream.guihet.com/migu/index.php?id=629943613
+赛事最经典,http://stream.guihet.com/migu/index.php?id=646596895
+射雕剧场,http://stream.guihet.com/migu/index.php?id=625681367
+深夜尤物剧场,http://stream.guihet.com/migu/index.php?id=625759558
+四大名著剧场,http://stream.guihet.com/migu/index.php?id=625498431#http://stream.guihet.com/migu/index.php?id=625498432
+探索纪录,http://stream.guihet.com/migu/index.php?id=615809560
+体育休闲频道,http://stream.guihet.com/migu/index.php?id=626064707
+体坛名栏汇,http://stream.guihet.com/migu/index.php?id=629943305
+天龙八部集,http://stream.guihet.com/migu/index.php?id=625703337
+吴京作品集,http://stream.guihet.com/migu/index.php?id=625681368
+武侠剧场,http://stream.guihet.com/migu/index.php?id=627198822
+喜剧联盟,http://stream.guihet.com/migu/index.php?id=637444830
+新片放映厅,http://stream.guihet.com/migu/index.php?id=619495952
+悬疑推理剧场,http://stream.guihet.com/migu/index.php?id=625574493
+游戏电竞轮播台,http://stream.guihet.com/migu/index.php?id=625133682
+游戏风云,http://stream.guihet.com/migu/index.php?id=623674815#http://stream.guihet.com/migu/index.php?id=623674816
+娱乐,http://stream.guihet.com/migu/index.php?id=615809851
+周星驰影院,http://stream.guihet.com/migu/index.php?id=623338112
+追剧少女,http://stream.guihet.com/migu/index.php?id=617432318
+综艺现场,http://stream.guihet.com/migu/index.php?id=621640581
+走进艺术,http://stream.guihet.com/migu/index.php?id=626157526
+最强综艺趴,http://stream.guihet.com/migu/index.php?id=629942228
 
 
 
