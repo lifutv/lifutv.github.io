@@ -899,7 +899,7 @@ nimo动画,http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a58
 BabyFirst亲子台,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 CHTV神州,http://220.158.149.14:9999/live/TV00000000000000000002@HHZT;LIVE
-
+CHTV神州,http://pull.leshantangjt.com/live/playlist.m3u8
 番薯台,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&size=720X480
 
 台空中英语,https://ch.iptvmate.net/b569923b2f53e17e6ec87653d9880c26.m3u8
