@@ -1469,7 +1469,7 @@ kk影视,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 最强综艺趴,http://stream.guihet.com/migu/index.php?id=629942228
 影视测试,http://183.131.85.21:1998/live/abc4.m3u8
 
-1#大人台_3350,#genre#
+大人台_3350,#genre#
 
 高兴,rtmp://717616144.r.cdnsun.net/717616144/tv/ttv12
 松视1台,rtmp://717616144.r.cdnsun.net/717616144/tv/ttv11
