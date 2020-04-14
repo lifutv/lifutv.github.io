@@ -661,9 +661,9 @@ CCTV15,http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.liv
 海南卫视,http://61.147.228.253/live-cnc-cdn.ysp.cctv.cn/001/2000291503.m3u8
 广西卫视,http://61.147.228.253/live-cnc-cdn.ysp.cctv.cn/001/2000294203.m3u8
 新疆卫视,http://s5117133.m.awhost.cn/dl/xinjiang.php?id=1
-
+广西卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000294203.m3u8
 CCTV13,http://s5117133.m.awhost.cn/dl/ysp.php?id=cctv13#http://s5117133.m.awhost.cn/migu.php?id=608807423
-
+海南卫视,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000291503.m3u8
 
 
 
@@ -850,7 +850,7 @@ MiaoMi-TV,http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 TVBS精采,P2p://51.79.41.138:18912/5b14095e000d4f6717d235e84b4432ff.ts
 
 FX,http://111.13.111.192/125.227.198.89:8027
-
+東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 东森超视,mitv://190.2.146.92:18912/5c72487c000667911d52abe7044c2b21.ts
 东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 东森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
@@ -934,7 +934,7 @@ CHTV神州,http://220.158.149.14:9999/live/TV00000000000000000002@HHZT;LIVE
 澳视葡文RTP,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳门卫星,http://61.244.22.4/ch3/ch3.live/chunklist_w246224640.m3u8
 澳视体育,http://61.244.22.4/ch4/sport_ch4.live/playlist.m3u8
-
+奥亚网赛马频道,http://stream.mastvnet.com/InsLive1/hd/live.m3u8
 
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/c0nbs75sbi9b1npr/playlist.m3u8
@@ -1191,7 +1191,7 @@ TVBS新闻台,http://103.145.39.136/gt188.php?vid=iptv234&tid=gt&id=45
 国外游戏直播,https://ott.mobcrush.com/hls/0/ott.m3u8
 日本体育,vjms://58.215.133.185:8500:3502/live/cid=408
 
-
+寰宇娱乐,http://hls.jingchangkan.tv/jingchangkan/156725993_5Xjy/index.m3u8
 imode时尚,http://by4.nty.tv189.cn:80/tm-imodeshishang-2000k.m3u8?cdntag=dxy
 Fashion Channel,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 法国时装,https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
