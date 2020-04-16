@@ -4,6 +4,7 @@
 房山有线,http://live.funhillrm.com/2/sd/live.m3u8
 怀柔电视台,http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
 顺义,http://livesydst.sobeycache.com:80/sydst/zb02.m3u8?auth_key=1586009648-0-0-410d97d64a57a1ee9ebe555d14270bca
+顺义,http://livesydst.chinamcache.com:80/sydst/zb02.m3u8?auth_key=1617760534-0-0-ef412cb540374882cba8c638a5487436
 北京新闻,rtmp://ivi.bupt.edu.cn/livetv/btv9hd
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9.m3u8
 北京新闻,http://cctvalih5ca.v.myalicdn.com/wstv/btv9_2/index.m3u8
@@ -52,7 +53,7 @@
 北京生活,http://cbnlive.cbchot.com/live/yt_beijingshenghuo_m_1.m3u8?123
 北京财经,http://cbnlive.cbchot.com/live/yt_beijingcaijing_h_1.m3u8?123
 北京朝阳,http://cbnlive.cbchot.com/live/ChaoYangYouXian_1.m3u8?123
-
+泌阳,http://live.dxhmt.cn:9081/tv/11726-1.m3u8
 
 
 
