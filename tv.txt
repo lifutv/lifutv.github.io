@@ -783,7 +783,7 @@ MTV日本,vjms://58.215.133.184:8500:3502/live/cid=52
 
 阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
 阳光卫视,http://stream.chinasuntv.com/680k/mid_video_index.m3u8?1573542754776
-
+TVB翡翠,http://80.245.105.21:8006/lbtv/live/t6u5b1q4/765e01bf/index.m3u8
 TVB翡翠,vjms://58.215.133.185:8500:3502/live/cid=362
 TVB翡翠,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 
