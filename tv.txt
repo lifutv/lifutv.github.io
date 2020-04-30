@@ -749,8 +749,8 @@ MTV日本,vjms://58.215.133.184:8500:3502/live/cid=52
 
 
 无线新闻,http://sousou2.top/dl/tvb.php?id=inews
-
-
+无线新闻,https://pl0.live.huajiao.com/live_huajiao_v2/inews-mai-he-zi.flv
+无线新闻,http://danielwu.gz01.bdysite.com/IX83SH/wxxw.php
 
 
 
@@ -781,19 +781,19 @@ MTV日本,vjms://58.215.133.184:8500:3502/live/cid=52
 阳光卫视,http://stream.chinasuntv.com/680k/mid_video_index.m3u8?1573542754776
 
 TVB翡翠,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-
-
+TVB翡翠,https://pl0.live.huajiao.com/live_huajiao_v2/jade-mai-he-zi.flv
+TVB翡翠,http://www.dszbdq.cn/play/zjkp58.php?id=10
 明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 星空卫视,https://www.fanmingming.cn/hls/startv.m3u8
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 V音乐,rtmp://58.200.131.2:1935/livetv/channelv
 V音乐,https://www.fanmingming.cn/hls/channelv.m3u8
+亚视a1,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo_720p.m3u8
+TVB J2,https://pl0.live.huajiao.com/live_huajiao_v2/6fb8f53e42d464a059f488788be1f.flv
 
 
-
-
-
+NOW MTV,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
 
 
@@ -813,7 +813,7 @@ MiaoMi-TV,http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 新加坡5频道,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
 好消息,http://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
-
+好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch45-2.m3u8
 台视新闻,http://111.13.111.192/125.227.198.89:8011
 台视,http://111.13.111.192/125.227.198.89:8001
 台视综合,http://111.13.111.192/125.227.198.89:8004
@@ -851,8 +851,8 @@ FX,http://111.13.111.192/125.227.198.89:8027
 
 
 中视HD,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-
-
+三立戏剧,http://ww.twtvcdn.com:8080/live/311/7facb400a9159108b0e3e189069a316d/index.m3u8
+华视,http://ww.twtvcdn.com:8080/live/327/81c90c800d6fa179823a0410f96f0aec/index.m3u8
 
 
 
@@ -1471,6 +1471,10 @@ kk影视,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 高兴,rtmp://717616144.r.cdnsun.net/717616144/tv/ttv12
 松视1台,rtmp://717616144.r.cdnsun.net/717616144/tv/ttv11
 nurt,http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
+3惊艳台,p2p://51.79.41.139:18912/5c18f9100006a3e216c73f0df5e8c139.ts
+t香蕉台,mitv://fccseuro.pvbox.live:18912/5c18f9090004f8a058092fb69f8b260d.ts
+
+
 HAPPY 高清,P2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 惊艳台 高清,P2p://51.79.41.138:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
 彩虹电影,http://prdsecurelive.ainemo.com/live/yx09hitv.flv
