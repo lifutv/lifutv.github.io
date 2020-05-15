@@ -1358,9 +1358,6 @@ kk影视,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 
 大人台_3350,#genre#
 
-高兴,rtmp://717616144.r.cdnsun.net/717616144/tv/ttv12
-松视1台,rtmp://717616144.r.cdnsun.net/717616144/tv/ttv11
-nurt,http://178.217.72.66/225.201.2.64/tracks-v1a1/mono.m3u8
 3惊艳台,p2p://51.79.41.139:18912/5c18f9100006a3e216c73f0df5e8c139.ts
 t香蕉台,mitv://fccseuro.pvbox.live:18912/5c18f9090004f8a058092fb69f8b260d.ts
 
